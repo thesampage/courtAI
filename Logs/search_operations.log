@@ -1,0 +1,8 @@
+2024-12-09 18:53:37,780 - INFO - Loaded 0 previously processed names.
+2024-12-09 18:53:42,253 - ERROR - Error during search for AMANDA STGERMAIN on krdo.com: 400 Client Error: Bad Request for url: https://www.googleapis.com/customsearch/v1?q=AMANDA%20STGERMAIN%20site:krdo.com&key=AIzaSyAHh5mASOMxsCG-MMLUgnnbOb6R11BjNaA...&cx=e405804992f8b4473
+2024-12-09 18:53:46,739 - ERROR - Error during search for AMANDA STGERMAIN on kktv.com: 400 Client Error: Bad Request for url: https://www.googleapis.com/customsearch/v1?q=AMANDA%20STGERMAIN%20site:kktv.com&key=AIzaSyAHh5mASOMxsCG-MMLUgnnbOb6R11BjNaA...&cx=e405804992f8b4473
+2024-12-09 18:53:51,173 - ERROR - Error during search for ANDREIS CAVAZOS on krdo.com: 400 Client Error: Bad Request for url: https://www.googleapis.com/customsearch/v1?q=ANDREIS%20CAVAZOS%20site:krdo.com&key=AIzaSyAHh5mASOMxsCG-MMLUgnnbOb6R11BjNaA...&cx=e405804992f8b4473
+2024-12-09 18:53:55,576 - ERROR - Error during search for ANDREIS CAVAZOS on kktv.com: 400 Client Error: Bad Request for url: https://www.googleapis.com/customsearch/v1?q=ANDREIS%20CAVAZOS%20site:kktv.com&key=AIzaSyAHh5mASOMxsCG-MMLUgnnbOb6R11BjNaA...&cx=e405804992f8b4473
+2024-12-09 18:54:00,056 - ERROR - Error during search for FRANCISCO ESPINOZA on krdo.com: 400 Client Error: Bad Request for url: https://www.googleapis.com/customsearch/v1?q=FRANCISCO%20ESPINOZA%20site:krdo.com&key=AIzaSyAHh5mASOMxsCG-MMLUgnnbOb6R11BjNaA...&cx=e405804992f8b4473
+2024-12-09 18:54:04,380 - WARNING - Script interrupted by user. Saving current results...
+2024-12-09 18:54:04,381 - INFO - Search operation completed.

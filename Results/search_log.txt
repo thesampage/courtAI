@@ -1,0 +1,184 @@
+2025-03-08 15:13:10 | INFO | 🚀 Script started
+2025-03-08 15:13:10 | INFO | 🗑️ All previous files cleared
+2025-03-08 15:13:10 | INFO | ⚙️ URL filtering enabled with 21 patterns: ['krdo.com/entertainment/', 'krdo.com/calendar/', 'krdo.com/video/', 'krdo.com/national-world/', 'kktv.com/video/', 'krdo.com/web/', 'krdo.com/fr/', 'krdo.com/pt/', 'krdo.com/en/', 'krdo.com/ap-national-news/', 'krdo.com/health-news-2/', 'krdo.com/de_DE/', 'krdo.com/post_tag/', 'krdo.com/sI_SI/', 'krdo.com/sl_SI/', 'kktv.com/authors/', 'krdo.com/ja_JP/', 'krdo.com/authors/', 'krdo.com/telemundo/', 'kktv.com/sports/', 'krdo.com/sports/']
+2025-03-08 15:13:10 | INFO | ⚙️ Year matching filter enabled
+2025-03-08 15:13:10 | INFO | 📋 Read 2305 names from input file
+2025-03-08 15:13:10 | INFO | 🔄 Processing 2305 remaining names out of 2305 total
+2025-03-08 15:13:10 | INFO | 🔍 Searching for: AMBER ADAMS (Case number: 2022CR936)
+2025-03-08 15:13:10 | INFO | 🔍 Attempt 1 for query: "AMBER ADAMS"
+2025-03-08 15:13:10 | INFO | ℹ️ No search results found for "AMBER ADAMS"
+2025-03-08 15:13:10 | INFO | 📝 Recording no results for AMBER ADAMS
+2025-03-08 15:13:13 | INFO | 🔍 Searching for: ANTOINE NYANDORO (Case number: 2024CR5489)
+2025-03-08 15:13:13 | INFO | 🔍 Attempt 1 for query: "ANTOINE NYANDORO"
+2025-03-08 15:13:13 | INFO | ℹ️ No search results found for "ANTOINE NYANDORO"
+2025-03-08 15:13:13 | INFO | 📝 Recording no results for ANTOINE NYANDORO
+2025-03-08 15:13:16 | INFO | 🔍 Searching for: BRIAN BEEM (Case number: 2024CR64)
+2025-03-08 15:13:16 | INFO | 🔍 Attempt 1 for query: "BRIAN BEEM"
+2025-03-08 15:13:16 | INFO | ℹ️ No search results found for "BRIAN BEEM"
+2025-03-08 15:13:16 | INFO | 📝 Recording no results for BRIAN BEEM
+2025-03-08 15:13:19 | INFO | 🔍 Searching for: CHRISTOPHER SANLUIS (Case number: 2024CR5372, 2024CR3982)
+2025-03-08 15:13:19 | INFO | 🔍 Attempt 1 for query: "CHRISTOPHER SANLUIS"
+2025-03-08 15:13:20 | INFO | ℹ️ No search results found for "CHRISTOPHER SANLUIS"
+2025-03-08 15:13:20 | INFO | 📝 Recording no results for CHRISTOPHER SANLUIS
+2025-03-08 15:13:23 | INFO | 🔍 Searching for: CHRISTOPHER SHIPPEY (Case number: 2024CR72)
+2025-03-08 15:13:23 | INFO | 🔍 Attempt 1 for query: "CHRISTOPHER SHIPPEY"
+2025-03-08 15:13:23 | INFO | ℹ️ No search results found for "CHRISTOPHER SHIPPEY"
+2025-03-08 15:13:23 | INFO | 📝 Recording no results for CHRISTOPHER SHIPPEY
+2025-03-08 15:13:26 | INFO | 🔍 Searching for: CURTIS TIBBETTS (Case number: 2024CR2036)
+2025-03-08 15:13:26 | INFO | 🔍 Attempt 1 for query: "CURTIS TIBBETTS"
+2025-03-08 15:13:26 | INFO | ℹ️ No search results found for "CURTIS TIBBETTS"
+2025-03-08 15:13:26 | INFO | 📝 Recording no results for CURTIS TIBBETTS
+2025-03-08 15:13:29 | INFO | 🔍 Searching for: ERIC FLORA (Case number: 2024CR1994, 2024CR913)
+2025-03-08 15:13:29 | INFO | 🔍 Attempt 1 for query: "ERIC FLORA"
+2025-03-08 15:13:29 | INFO | ✅ Found 2 results for "ERIC FLORA"
+2025-03-08 15:13:29 | INFO | 🔢 Extracted case year: 2024 from case number: 2024CR1994, 2024CR913
+2025-03-08 15:13:29 | INFO | 📰 Processing article: WANTED: Eric Flora is suspecte... from 2024
+2025-03-08 15:13:30 | INFO | ⏭️ URL pattern match: kktv.com/video/
+2025-03-08 15:13:30 | INFO | 📰 Processing article: Kidnapping suspect among featu... from 2024
+2025-03-08 15:13:30 | INFO | 👤 Found author: (FORMER EMPLOYEE) Tony Keith for https://www.kktv.com/2024/06/17/kidnapping-suspect-among-featured-fugitives-sought-this-week-colorado-springs-area/
+2025-03-08 15:13:30 | INFO | ✅ Processed 1 valid, 1 excluded results
+2025-03-08 15:13:30 | INFO | ✅ Saved 1 results to /Users/sampage/courtAI/Results/search_results.csv
+2025-03-08 15:13:30 | INFO | ✅ Saved 1 excluded results to /Users/sampage/courtAI/Results/excluded_results.csv
+2025-03-08 15:13:33 | INFO | ⏭️ Skipping already processed name: ERIC FLORA
+2025-03-08 15:13:36 | INFO | 🔍 Searching for: JOHNNIE MOLEN (Case number: 2024CR167)
+2025-03-08 15:13:36 | INFO | 🔍 Attempt 1 for query: "JOHNNIE MOLEN"
+2025-03-08 15:13:36 | INFO | ℹ️ No search results found for "JOHNNIE MOLEN"
+2025-03-08 15:13:36 | INFO | 📝 Recording no results for JOHNNIE MOLEN
+2025-03-08 15:13:39 | INFO | 🔍 Searching for: MARCIA MAESE (Case number: 2022CR1481)
+2025-03-08 15:13:39 | INFO | 🔍 Attempt 1 for query: "MARCIA MAESE"
+2025-03-08 15:13:39 | INFO | ℹ️ No search results found for "MARCIA MAESE"
+2025-03-08 15:13:39 | INFO | 📝 Recording no results for MARCIA MAESE
+2025-03-08 15:13:42 | INFO | 🔍 Searching for: MARK ALWARD (Case number: 2024CR69)
+2025-03-08 15:13:42 | INFO | 🔍 Attempt 1 for query: "MARK ALWARD"
+2025-03-08 15:13:43 | INFO | ℹ️ No search results found for "MARK ALWARD"
+2025-03-08 15:13:43 | INFO | 📝 Recording no results for MARK ALWARD
+2025-03-08 15:13:46 | INFO | 🔍 Searching for: ROSS EATON (Case number: 2024CR21)
+2025-03-08 15:13:46 | INFO | 🔍 Attempt 1 for query: "ROSS EATON"
+2025-03-08 15:13:46 | INFO | ℹ️ No search results found for "ROSS EATON"
+2025-03-08 15:13:46 | INFO | 📝 Recording no results for ROSS EATON
+2025-03-08 15:13:49 | INFO | 🔍 Searching for: ROY ATTARDI (Case number: 2021CR1372, 2021CR2870, 2020CR810)
+2025-03-08 15:13:49 | INFO | 🔍 Attempt 1 for query: "ROY ATTARDI"
+2025-03-08 15:13:49 | INFO | ℹ️ No search results found for "ROY ATTARDI"
+2025-03-08 15:13:49 | INFO | 📝 Recording no results for ROY ATTARDI
+2025-03-08 15:13:52 | INFO | 🔍 Searching for: SAMANTHA CLINE (Case number: 2025CR182)
+2025-03-08 15:13:52 | INFO | 🔍 Attempt 1 for query: "SAMANTHA CLINE"
+2025-03-08 15:13:53 | INFO | ℹ️ No search results found for "SAMANTHA CLINE"
+2025-03-08 15:13:53 | INFO | 📝 Recording no results for SAMANTHA CLINE
+2025-03-08 15:13:56 | INFO | 🔍 Searching for: STATE OF COLORADO (Case number: 2020CR810)
+2025-03-08 15:13:56 | INFO | 🔍 Attempt 1 for query: "STATE OF COLORADO"
+2025-03-08 15:13:56 | INFO | ✅ Found 10 results for "STATE OF COLORADO"
+2025-03-08 15:13:56 | INFO | 🔢 Extracted case year: 2020 from case number: 2020CR810
+2025-03-08 15:13:56 | INFO | 📰 Processing article: CSU Pueblo women's basketball ... from 2025
+2025-03-08 15:13:56 | INFO | 👤 Found author: Rob Namnoum for https://krdo.com/news/2025/02/09/alisha-little-csu-pueblo-womens-basketball-andra-davis-denver-broncos/
+2025-03-08 15:13:56 | INFO | ⏭️ Year mismatch: Case year 2020 ≠ Article year 2025
+2025-03-08 15:13:56 | INFO | 📰 Processing article: Remains of World War II soldie... from 2024
+2025-03-08 15:13:56 | INFO | 👤 Found author: (FORMER EMPLOYEE) Tony Keith for https://www.kktv.com/2024/06/27/remains-world-war-ii-soldier-return-his-home-state-colorado-thursday/
+2025-03-08 15:13:56 | INFO | ⏭️ Year mismatch: Case year 2020 ≠ Article year 2024
+2025-03-08 15:13:56 | INFO | 📰 Processing article: Meet the newest and cutest mem... from 2024
+2025-03-08 15:13:57 | INFO | 👤 Found author: Lindsey Grewe for https://www.kktv.com/2024/08/20/meet-newest-cutest-member-colorado-state-patrol/
+2025-03-08 15:13:57 | INFO | ⏭️ Year mismatch: Case year 2020 ≠ Article year 2024
+2025-03-08 15:13:57 | INFO | 📰 Processing article: State of Colorado Gives More t... from 2020
+2025-03-08 15:13:57 | INFO | ⏭️ URL pattern match: kktv.com/video/
+2025-03-08 15:13:57 | INFO | 📰 Processing article: State of Colorado, Masterpiece... from unknown year
+2025-03-08 15:13:58 | INFO | 👤 Found author: Lindsey Grewe for https://www.kktv.com/content/news/State-of-Colorado-Masterpiece-Cakeshop-agree-to-end-litigation-506720381.html
+2025-03-08 15:13:58 | INFO | 📰 Processing article: Snowpack totals improving acro... from 2023
+2025-03-08 15:13:58 | INFO | 👤 Found author: Jessica Gruenling for https://krdo.com/news/2023/01/23/snowpack-totals-improving-across-the-state-of-colorado/
+2025-03-08 15:13:58 | INFO | ⏭️ Year mismatch: Case year 2020 ≠ Article year 2023
+2025-03-08 15:13:58 | INFO | 📰 Processing article: State of Colorado limits gathe... from 2020
+2025-03-08 15:13:58 | INFO | 👤 Found author: Olivia DaRocha for https://www.kktv.com/2020/10/23/state-of-co-limits-gatherings-to-10-people-no-more-than-2-households/
+2025-03-08 15:13:58 | INFO | 📰 Processing article: State of Colorado makes millio... from 2020
+2025-03-08 15:13:58 | INFO | 👤 Found author: Lauren Barnas for https://krdo.com/news/local-news/2020/11/05/state-of-colorado-makes-millions-off-drivers-personal-information/
+2025-03-08 15:13:58 | INFO | 📰 Processing article: State of Colorado fines amusem... from 2021
+2025-03-08 15:13:58 | INFO | 👤 Found author: Dan Beedie for https://krdo.com/news/2021/10/22/state-of-colorado-fines-amusement-park-for-68000-after-young-girls-death/
+2025-03-08 15:13:58 | INFO | ⏭️ Year mismatch: Case year 2020 ≠ Article year 2021
+2025-03-08 15:13:58 | INFO | 📰 Processing article: Clerks raise concerns after pa... from 2024
+2025-03-08 15:13:59 | INFO | 👤 Found author: Cameron Dean for https://www.kktv.com/2024/11/20/clerks-raise-concerns-after-password-leak-colorado-secretary-states-office/
+2025-03-08 15:13:59 | INFO | ⏭️ Year mismatch: Case year 2020 ≠ Article year 2024
+2025-03-08 15:13:59 | INFO | ✅ Processed 3 valid, 7 excluded results
+2025-03-08 15:13:59 | INFO | ✅ Saved 3 results to /Users/sampage/courtAI/Results/search_results.csv
+2025-03-08 15:13:59 | INFO | ✅ Saved 7 excluded results to /Users/sampage/courtAI/Results/excluded_results.csv
+2025-03-08 15:14:02 | INFO | 🔍 Searching for: ALEXANDER SMITH (Case number: 2024CR5327)
+2025-03-08 15:14:02 | INFO | 🔍 Attempt 1 for query: "ALEXANDER SMITH"
+2025-03-08 15:14:02 | INFO | ✅ Found 4 results for "ALEXANDER SMITH"
+2025-03-08 15:14:02 | INFO | 🔢 Extracted case year: 2024 from case number: 2024CR5327
+2025-03-08 15:14:02 | INFO | 📰 Processing article: Man pleads guilty to killing 2... from 2024
+2025-03-08 15:14:02 | INFO | 👤 Found author: KLTV Digital Media Staff for https://www.kktv.com/2024/01/22/man-pleads-guilty-killing-2-dentists-their-office/
+2025-03-08 15:14:02 | INFO | 📰 Processing article: 2 dentists killed in office sh... from 2022
+2025-03-08 15:14:03 | INFO | 👤 Found author: Christian Terry for https://www.kktv.com/2022/03/17/2-doctors-killed-dental-office-shooting-texas/
+2025-03-08 15:14:03 | INFO | ⏭️ Year mismatch: Case year 2024 ≠ Article year 2022
+2025-03-08 15:14:03 | INFO | 📰 Processing article: Christian Terry... from unknown year
+2025-03-08 15:14:03 | INFO | 👤 Found author: Christian Terry for https://www.kktv.com/authors/christianterry/
+2025-03-08 15:14:03 | INFO | ⏭️ URL pattern match: kktv.com/authors/
+2025-03-08 15:14:03 | INFO | 📰 Processing article: Colorado Springs police arrest... from 2018
+2025-03-08 15:14:03 | INFO | 👤 Found author: KRDO News for https://krdo.com/news/2018/09/19/colorado-springs-police-arrest-suspect-in-connection-to-early-morning-stabbing/
+2025-03-08 15:14:03 | INFO | ⏭️ Year mismatch: Case year 2024 ≠ Article year 2018
+2025-03-08 15:14:03 | INFO | ✅ Processed 1 valid, 3 excluded results
+2025-03-08 15:14:03 | INFO | ✅ Saved 1 results to /Users/sampage/courtAI/Results/search_results.csv
+2025-03-08 15:14:03 | INFO | ✅ Saved 3 excluded results to /Users/sampage/courtAI/Results/excluded_results.csv
+2025-03-08 15:14:06 | INFO | ⏭️ Skipping already processed name: ALEXANDER SMITH
+2025-03-08 15:14:09 | INFO | 🔍 Searching for: CHEVELLE BUTCHER (Case number: 2024CR147)
+2025-03-08 15:14:09 | INFO | 🔍 Attempt 1 for query: "CHEVELLE BUTCHER"
+2025-03-08 15:14:09 | INFO | ℹ️ No search results found for "CHEVELLE BUTCHER"
+2025-03-08 15:14:09 | INFO | 📝 Recording no results for CHEVELLE BUTCHER
+2025-03-08 15:14:12 | INFO | 🔍 Searching for: CHRISTOPHER THOMAS (Case number: 2024CR352)
+2025-03-08 15:14:12 | INFO | 🔍 Attempt 1 for query: "CHRISTOPHER THOMAS"
+2025-03-08 15:14:12 | INFO | ✅ Found 10 results for "CHRISTOPHER THOMAS"
+2025-03-08 15:14:12 | INFO | 🔢 Extracted case year: 2024 from case number: 2024CR352
+2025-03-08 15:14:12 | INFO | 📰 Processing article: Man charged after stealing din... from 2022
+2025-03-08 15:14:13 | INFO | 👤 Found author: Emily Van de Riet for https://www.kktv.com/2022/02/15/man-charged-after-stealing-dinosaur-claw-worth-25000-police-say/
+2025-03-08 15:14:13 | INFO | ⏭️ Year mismatch: Case year 2024 ≠ Article year 2022
+2025-03-08 15:14:13 | INFO | 📰 Processing article: 2 arrested after holding woman... from 2020
+2025-03-08 15:14:13 | INFO | 👤 Found author: Andrew McMillan for https://krdo.com/news/top-stories/2020/03/31/2-arrested-after-holding-woman-captive-in-colorado-springs-apartment/
+2025-03-08 15:14:13 | INFO | ⏭️ Year mismatch: Case year 2024 ≠ Article year 2020
+2025-03-08 15:14:13 | INFO | 📰 Processing article: Man arrested after firing shot... from 2022
+2025-03-08 15:14:13 | INFO | 👤 Found author: KRDO News for https://krdo.com/news/2022/01/03/man-arrested-after-firing-shots-at-colorado-springs-old-chicago-restaurant/
+2025-03-08 15:14:13 | INFO | ⏭️ Year mismatch: Case year 2024 ≠ Article year 2022
+2025-03-08 15:14:13 | INFO | 📰 Processing article: Featured fugitives in Colorado... from 2024
+2025-03-08 15:14:13 | INFO | 👤 Found author: (FORMER EMPLOYEE) Tony Keith for https://www.kktv.com/2024/08/26/featured-fugitives-colorado-springs-area-week-aug-26-includes-sexual-assault-suspect-attempted-murder-suspect/
+2025-03-08 15:14:13 | INFO | 📰 Processing article: Colorado Springs man killed in... from 2015
+2025-03-08 15:14:13 | INFO | 👤 Found author: KRDO News for https://krdo.com/news/2015/01/01/colorado-springs-man-killed-in-avalanche/
+2025-03-08 15:14:13 | INFO | ⏭️ Year mismatch: Case year 2024 ≠ Article year 2015
+2025-03-08 15:14:13 | INFO | 📰 Processing article: Patrons reportedly wrestled gu... from 2022
+2025-03-08 15:14:13 | INFO | 👤 Found author: Kasia Kerridge for https://www.kktv.com/2022/01/03/patrons-reportedly-wrestled-gun-away-suspect-after-shots-fired-restaurant-northeast-colorado-springs/
+2025-03-08 15:14:13 | INFO | ⏭️ Year mismatch: Case year 2024 ≠ Article year 2022
+2025-03-08 15:14:13 | INFO | 📰 Processing article: Domino's is offering half-pric... from 2024
+2025-03-08 15:14:13 | INFO | 👤 Found author: TMX staff for https://www.kktv.com/2024/03/18/dominos-is-offering-half-price-pizzas-all-week-celebrate-march-madness/
+2025-03-08 15:14:13 | INFO | 📰 Processing article: Kidnapping suspect among featu... from 2024
+2025-03-08 15:14:14 | INFO | 👤 Found author: (FORMER EMPLOYEE) Tony Keith for https://www.kktv.com/2024/04/15/kidnapping-suspect-among-featured-fugitives-colorado-springs-area/
+2025-03-08 15:14:14 | INFO | 📰 Processing article: Pinpoint delivery: Domino's ca... from 2023
+2025-03-08 15:14:14 | INFO | 👤 Found author: Jordan Gartner for https://www.kktv.com/2023/06/30/pinpoint-delivery-dominos-can-deliver-your-next-pizza-without-an-address/
+2025-03-08 15:14:14 | INFO | ⏭️ Year mismatch: Case year 2024 ≠ Article year 2023
+2025-03-08 15:14:14 | INFO | 📰 Processing article: Attempted murder suspect who f... from 2024
+2025-03-08 15:14:14 | INFO | 👤 Found author: (FORMER EMPLOYEE) Tony Keith for https://www.kktv.com/2024/05/06/attempted-murder-suspect-who-failed-register-sex-offender-among-featured-fugitives-colorado-springs-area/
+2025-03-08 15:14:14 | INFO | ✅ Processed 4 valid, 6 excluded results
+2025-03-08 15:14:14 | INFO | ✅ Saved 4 results to /Users/sampage/courtAI/Results/search_results.csv
+2025-03-08 15:14:14 | INFO | ✅ Saved 6 excluded results to /Users/sampage/courtAI/Results/excluded_results.csv
+2025-03-08 15:14:17 | INFO | 🔍 Searching for: DOMINIK JARAMILLO (Case number: 2023CR416)
+2025-03-08 15:14:17 | INFO | 🔍 Attempt 1 for query: "DOMINIK JARAMILLO"
+2025-03-08 15:14:17 | INFO | ✅ Found 6 results for "DOMINIK JARAMILLO"
+2025-03-08 15:14:17 | INFO | 🔢 Extracted case year: 2023 from case number: 2023CR416
+2025-03-08 15:14:17 | INFO | 📰 Processing article: Six prisoners involved in viol... from 2023
+2025-03-08 15:14:17 | INFO | 👤 Found author: Sean Rice for https://krdo.com/news/2023/05/09/six-prisoners-involved-in-violent-2022-murder-at-fremont-co-prison-only-one-currently-charged/
+2025-03-08 15:14:17 | INFO | 📰 Processing article: Search for suspect | KRDO... from 2015
+2025-03-08 15:14:18 | INFO | 👤 Found author: KRDO News for https://krdo.com/news/2015/12/28/search-for-suspect/
+2025-03-08 15:14:18 | INFO | ⏭️ Year mismatch: Case year 2023 ≠ Article year 2015
+2025-03-08 15:14:18 | INFO | 📰 Processing article: Police come up empty handed af... from 2015
+2025-03-08 15:14:18 | INFO | 👤 Found author: KRDO News for https://krdo.com/news/2015/12/29/police-come-up-empty-handed-after-hours-long-search-for-murder-suspect/
+2025-03-08 15:14:18 | INFO | ⏭️ Year mismatch: Case year 2023 ≠ Article year 2015
+2025-03-08 15:14:18 | INFO | 📰 Processing article: News Archives | Page 14444 of ... from unknown year
+2025-03-08 15:14:21 | INFO | 👤 Found author: KRDO News for https://krdo.com/ja_JP/news/page/14444/
+2025-03-08 15:14:21 | INFO | ⏭️ URL pattern match: krdo.com/ja_JP/
+2025-03-08 15:14:21 | INFO | 📰 Processing article: News Archives | Page 14783 of ... from unknown year
+2025-03-08 15:14:24 | INFO | 👤 Found author: KRDO News for https://krdo.com/post_tag/news/page/14783/
+2025-03-08 15:14:24 | INFO | ⏭️ URL pattern match: krdo.com/post_tag/
+2025-03-08 15:14:24 | INFO | 📰 Processing article: Suspect in murder of Pueblo te... from 2016
+2025-03-08 15:14:24 | INFO | 👤 Found author: KRDO News for https://krdo.com/news/2016/01/06/suspect-in-murder-of-pueblo-teen-arrested/
+2025-03-08 15:14:24 | INFO | ⏭️ Year mismatch: Case year 2023 ≠ Article year 2016
+2025-03-08 15:14:24 | INFO | ✅ Processed 1 valid, 5 excluded results
+2025-03-08 15:14:24 | INFO | ✅ Saved 1 results to /Users/sampage/courtAI/Results/search_results.csv
+2025-03-08 15:14:24 | INFO | ✅ Saved 5 excluded results to /Users/sampage/courtAI/Results/excluded_results.csv
+2025-03-08 15:14:27 | INFO | 🔍 Searching for: ISRAEL LOPEZ (Case number: 2024CR207)
+2025-03-08 15:14:27 | INFO | 🔍 Attempt 1 for query: "ISRAEL LOPEZ"
+2025-03-08 15:14:27 | INFO | ℹ️ No search results found for "ISRAEL LOPEZ"
+2025-03-08 15:14:27 | INFO | 📝 Recording no results for ISRAEL LOPEZ
+2025-03-08 15:14:28 | WARNING | ⚠️ Process interrupted by user!
